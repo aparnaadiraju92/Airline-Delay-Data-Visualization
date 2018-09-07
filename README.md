@@ -2,7 +2,7 @@
 
 **2015 Airline Delay and Cancellations - Data Visualization**
 
-This repository will help Data Analytics enthusiasts in you developing some basic plots treemap, bar plots, pie charts etc., I used the Kaggle Competition "Kiva Crowdfunding" as the data source to perform this exercise.
+This repository will help Data Analytics enthusiasts in you developing some basic plots treemap, bar plots, histograms, scattercharts, pie charts etc., I used the Kaggle Competition "2015 Airline Delay and Cancellations" as the data source to perform this exercise.
 
 Data for analysis: https://www.kaggle.com/usdot/flight-delays
 
