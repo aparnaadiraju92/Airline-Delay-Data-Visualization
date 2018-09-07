@@ -16,4 +16,45 @@ Data for analysis: https://www.kaggle.com/usdot/flight-delays
 
 Tools : PowerBI, Tableau
 
- ###### #--------Data Visualizations--------#
+## 2. Data Visualizations - Power BI
+
+**PLOT 1 - Area chart and Histogram
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/PowerBI_(1).PNG)
+    
+**PLOT 2 - Line chart
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/PowerBI_(2).PNG)
+    
+**PLOT 3 - Pie chart and Donut chart
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/PowerBI_(3).PNG)
+    
+**PLOT 4 - Cluster column chart and Scatter chart
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/PowerBI_(4).PNG)
+    
+**PLOT 5 - Treemap
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/PowerBI_(5).PNG)
+      
+**PLOT 6 - Map
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/PowerBI_(6).PNG)
+
+
+## 3. Data Visualizations - Tableau
+
+**PLOT 1 - Area chart and Histogram
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/Tableau_(1).PNG)
+    
+**PLOT 2 - Line chart
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/Tableau_(2).PNG)
+    
+**PLOT 3 - Pie chart and Donut chart
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/Tableau_(3).PNG)
+    
+**PLOT 4 - Cluster column chart and Scatter chart
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/Tableau_(4).PNG)
+    
+**PLOT 5 - Treemap
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/Tableau_(5).PNG)
+      
+**PLOT 6 - Map
+    ![alt text](https://github.com/aparnaadiraju92/Airline-Delay-Data-Visualization/blob/master/Plots/Tableau_(6).PNG)
+
+
